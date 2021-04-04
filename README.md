@@ -3,6 +3,8 @@ Unity와 Vuforia를 사용해 원통 이미지를 인식하고 그 주변에 AR�
 
 참고하셔도 괜찮습니다. 다만 반드시 출처 표시 바랍니다.
 
+<br><br><br>
+
 
 ![슬라이드2](https://user-images.githubusercontent.com/48902155/77853123-6b6ac980-721d-11ea-927a-0fda83b25e7a.PNG)
 ![슬라이드3](https://user-images.githubusercontent.com/48902155/77853125-6c036000-721d-11ea-9df6-d3c39894c359.PNG)
